@@ -1,4 +1,4 @@
-## Oi eu sou Pedro Augusto, Estudo no  e tecnologia!
+## Oi eu sou Pedro Augusto, Estudo Desenvolvimento Web na Trybe!
 <a href="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif" height="300px" style="max-width: 100%;"></a>
 <div align="center">
   <a href="https://github.com/PedroAugMedeiros">
