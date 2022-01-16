@@ -1,4 +1,4 @@
-## Oi eu sou a Pedro Augusto, Estudante de desenvolvimento de Software e Desenvolvimento web na Trybe!
+## Salve visitante, Sou Pedro Augusto, Estudante de desenvolvimento de Software e Desenvolvimento web na Trybe!
 <div align="center">
   <a href="https://github.com/PedroAugMedeiros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAugMedeiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
