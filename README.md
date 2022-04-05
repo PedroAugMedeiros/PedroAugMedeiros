@@ -17,5 +17,6 @@
 <div>  
   <a href ="mailto:pedroaugmed7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedroaugmed?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJijohMA2RBO%2FG63znL%2B5Pg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://github.com/PedroAugMedeiros/PedroMedeirosPortifolio" target="_blank"><img src="https://img.shields.io/badge/-Portifolio-%230077B5?style=for-the-badge&logo=Portifolio&logoColor=white" target="_blank"></a> 
+  <a href="https://github.com/PedroAugMedeiros/PedroMedeirosPortifolio" target="_blank"><img src="https://img.shields.io/badge/-Portifolio-%230077B5?style=for-the-badge&logo=Portifolio&logoColor=white" target="_blank"></a>
+  <a href="https://pedro-medeiros-portifolio.herokuapp.com" target="_blank"><img src="https://img.shields.io/badge/-Portifolio Deployed-%230077B5?style=for-the-badge&logo=Portifolio&logoColor=white" target="_blank"></a> 
 </div>
