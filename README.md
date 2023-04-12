@@ -1,7 +1,7 @@
 ## Salve visitante, Sou Pedro Medeiros, Desenvolvedor Front End!
 <div align="center">
   <a href="https://github.com/PedroAugMedeiros">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedroaugmedeiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedroaugmedeiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedroaugmedeiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 </div>
